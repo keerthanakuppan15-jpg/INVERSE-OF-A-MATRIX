@@ -1,0 +1,5 @@
+#Program to find the inverse of a matrix.
+#Developed by:keerthana k
+#RegisterNumber:212225230137
+import numpy as np
+print(np.linalg.inv([[1,0,3],[-1,2,-2],[2,3,-1]]))
